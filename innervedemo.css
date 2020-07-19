@@ -1,11 +1,11 @@
 nav a{
 	text-decoration: none;
-	color: white;
+	color: #FFFFFF;
 	text-align: justify;
 	padding:2% 6% 2% 6%;
 	font-family:'Bellota Text';
 	font-size: 220%;
-	text-shadow: 2px 2px black;
+	text-shadow: 2px 2px #000000;
 
 
 	}
@@ -23,7 +23,7 @@ text-decoration: underline;
 	color:white;}
 	
 footer
-{ color:white;
+{ color:#FFFFFF;
 	margin: auto;
 	width: 100%;
 	text-align: center;
@@ -53,7 +53,7 @@ background: linear-gradient(90deg, rgba(158,242,245,1) 0%, rgba(255,255,255,1) 4
 	margin: auto;
 	font-size: 200%;
 	width: 100%;
-	color: white;
+	color: #FFFFFF;
 	background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.8939950980392157) 44%, rgba(0,212,255,1) 100%);
 	text-align: center;
@@ -69,7 +69,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.89399509803
 	height: 10%;
 	font-size: 200%;
 	width: 100%;
-	color: white;
+	color: #FFFFFF;
 	background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.8939950980392157) 44%, rgba(0,212,255,1) 100%);
 	text-align: center;
@@ -88,7 +88,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.89399509803
 #events h2{
 	font-size: 200%;
 	width: 100%;
-	color: white;
+	color: #FFFFFF;
 	background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.8939950980392157) 44%, rgba(0,212,255,1) 100%);
 	text-align: center;
@@ -101,7 +101,7 @@ width:10%;
 #register{
 	padding:1% 1% 1% 1%;
 	border-radius: 22%;
-	border :2px solid black;
+	border :2px solid #000000;
 	font-size: 120%;
 	font-family:'Bellota Text';
 }
@@ -130,21 +130,21 @@ padding: 20px;
 }
 .fa-facebook {
   background: #3B5998;
-  color: white;
+  color: #FFFFFF;
 }
 
 .fa-linkedin {
   background: #007bb5;
-  color: white;
+  color:#FFFFFF;
 }
 .fa-youtube {
   background: #bb0000;
-  color: white;
+  color:#FFFFFF;
 }
 
 .fa-instagram {
   background: #125688;
-  color: white;
+  color: #FFFFFF;
 }
 #icons{
 	padding-left:38%;
